@@ -35,3 +35,5 @@ file in your browser to play the game.
 * [Adding collision detection to images drawn on canvas on StackOverflow](https://stackoverflow.com/questions/13916966/adding-collision-detection-to-images-drawn-on-canvas)
 * [Modals in Pure ES6 JavaScript](https://lowrey.me/modals-in-pure-es6-javascript/)
 * KeyboardEvent Value (keyCodes, metaKey, etc) via [CSS-Tricks](https://lowrey.me/modals-in-pure-es6-javascript/)# Arcade_Game
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c30ac2d1-e704-4213-94cc-634da1ec99fc/deploy-status)](https://app.netlify.com/sites/arcade-game-by-shashank/deploys)
